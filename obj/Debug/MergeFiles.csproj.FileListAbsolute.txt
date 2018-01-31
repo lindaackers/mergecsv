@@ -1,0 +1,10 @@
+D:\Users\AckersL\Documents\Visual Studio 2017\Projects\MergeFiles\MergeFiles\bin\Debug\MergeFiles.exe.config
+D:\Users\AckersL\Documents\Visual Studio 2017\Projects\MergeFiles\MergeFiles\bin\Debug\MergeFiles.exe
+D:\Users\AckersL\Documents\Visual Studio 2017\Projects\MergeFiles\MergeFiles\bin\Debug\MergeFiles.pdb
+D:\Users\AckersL\Documents\Visual Studio 2017\Projects\MergeFiles\MergeFiles\obj\Debug\MergeFiles.Form1.resources
+D:\Users\AckersL\Documents\Visual Studio 2017\Projects\MergeFiles\MergeFiles\obj\Debug\MergeFiles.Properties.Resources.resources
+D:\Users\AckersL\Documents\Visual Studio 2017\Projects\MergeFiles\MergeFiles\obj\Debug\MergeFiles.csproj.GenerateResource.Cache
+D:\Users\AckersL\Documents\Visual Studio 2017\Projects\MergeFiles\MergeFiles\obj\Debug\MergeFiles.csproj.CoreCompileInputs.cache
+D:\Users\AckersL\Documents\Visual Studio 2017\Projects\MergeFiles\MergeFiles\obj\Debug\MergeFiles.exe
+D:\Users\AckersL\Documents\Visual Studio 2017\Projects\MergeFiles\MergeFiles\obj\Debug\MergeFiles.pdb
+D:\Users\AckersL\Documents\Visual Studio 2017\Projects\MergeFiles\MergeFiles\obj\Debug\MergeFiles.csprojResolveAssemblyReference.cache
